@@ -116,7 +116,7 @@
               <swaggerDirectory>${project.build.directory}</swaggerDirectory>
             </apiSource>
           </apiSources>
-        </configuration>-->
+        </configuration>
         <executions>
           <execution>
             <phase>install</phase>
@@ -124,7 +124,7 @@
               <goal>generate</goal>
             </goals>
           </execution>
-        </executions>
+        </executions>-->
       </plugin>
 			
 		</plugins>
